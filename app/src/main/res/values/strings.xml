@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp1</string>
+    <string name="my_name">Vinit</string>
+    <string name="press_me">Press Me</string>
+</resources>
